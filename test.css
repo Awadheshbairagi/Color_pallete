@@ -110,7 +110,7 @@ header {
 }
 
 .modal-content{
-  max-height: 400px;
+  max-height: 500px;
   overflow-y: scroll;
   backdrop-filter: blur(6px) saturate(173%);
   -webkit-backdrop-filter: blur(6px) saturate(173%);
